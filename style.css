@@ -131,7 +131,7 @@ section.about {
     width: 80%;
     margin: 50px auto;
     text-align: center;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 50px;
     margin-top: 30px;
 }
@@ -188,7 +188,7 @@ section.about {
 section.projects {
     width: 80%;
     margin: 50px auto;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 50px;
 }
 
@@ -258,7 +258,7 @@ section.experience {
     width: 80%;
     margin: 50px auto;
     text-align: center;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #ddd;
     padding-bottom: 20px;
 }
 
