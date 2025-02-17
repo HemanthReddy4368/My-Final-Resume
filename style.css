@@ -4,16 +4,10 @@ body {
     font-family: Arial, sans-serif;
 }
 
-/* header {
-    padding: 10px 0;
-    margin-top: 20px;
-    margin-left: 150px;
-} */
-
 header {
     padding: 10px 0;
     margin: 0; 
-    /* position: fixed;  */
+    position: fixed; 
     top: 0; 
     width: 100%; 
     background-color: #1a1a2e; 
@@ -299,6 +293,7 @@ section.experience h2 {
 .experience-right h3 {
     font-size: 1.2em;
     margin: 0;
+    color: #e94560;
 }
 
 .experience-left p,
